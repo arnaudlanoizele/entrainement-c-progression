@@ -61,4 +61,11 @@
 
 ***
 
+- 10-count_less_than_10.c: Write a program that counts the numbers less than 10 in an array using a while loop.
+- Écrire un programme qui compte les nombres strictement inférieurs à 10 dans un tableau en utilisant une boucle while.
+- int numbers[] = {4, 15, 10, 23, 7, 11, -5, 30};
+- Numbers less than 10: 3
+
+***
+
 - 
