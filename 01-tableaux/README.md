@@ -10,3 +10,8 @@
 - Écrire un programme qui trouve le plus petit nombre d'un tableau en utilisant une boucle while
 - int numbers[] = {-14, -6, -23, -2, -18, -9};
 - Minimum: 2
+- 04-count_even.c: Write a program that counts the even numbers in an array using a while loop.
+- Écrire un programme qui compte le nombre d'éléments pairs dans un tableau en utilisant une boucle while.
+- int numbers[] = {3, 8, 12, 7, 15, 20, 6};
+- Even numbers: 4
+-
