@@ -74,4 +74,10 @@
 
 ***
 
+- 12-count_outside.c: Write a program that counts the numbers less than 5 or greater than 20 in an array using a while loop.
+- int numbers[] = {3, 8, 12, 20, 5, 17, 25, 10, 2, 30};
+- Numbers outside: 4
+
+***
+
 - 
