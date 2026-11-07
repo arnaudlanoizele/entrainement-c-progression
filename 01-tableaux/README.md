@@ -47,4 +47,11 @@
 
 ***
 
+- 08-count_zero.c: Write a program that counts the number of zeros in an array using a while loop.
+- Écrire un programme qui compte le nombre de zéros dans un tableau à l'aide d'une boucle while.
+- int numbers[] = {0, 5, -3, 0, 12, 0, -7, 0};
+- Zeros: 4
+
+***
+
 - 
