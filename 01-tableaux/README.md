@@ -110,4 +110,10 @@
 
 ***
 
+- 18-average.c: Write a program that calculates the average of the numbers in an array using a while loop.
+- int numbers[] = {4, 8, 12, 16, 20};
+- Average: 12.00
+
+***
+
 - 
