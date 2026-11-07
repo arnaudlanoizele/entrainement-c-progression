@@ -137,4 +137,11 @@
 
 ***
 
+- 22-count_not_equal_average.c: Write a program that counts how many numbers in an array are not equal to the average.
+- int numbers[] = {4, 8, 12, 16, 20};
+- Average: 12.00
+- Count not equal to average: 4
+
+***
+
 - 
