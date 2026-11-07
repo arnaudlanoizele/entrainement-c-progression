@@ -1,0 +1,3 @@
+- 01-sommes: Write a C program that calculates the sum of all elements in an array using a while loop. (Écris un programme en C qui calcule la somme de tous les éléments d'un tableau en utilisant une boucle while.)
+- int numbers[] = {4, 8, 15, 6, 12, 5};
+- Sum: 50
