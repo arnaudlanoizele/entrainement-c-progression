@@ -123,4 +123,11 @@
 
 ***
 
+- 20-count_below_average.c: Write a program that counts how many numbers in an array are less than the average.
+- int numbers[] = {4, 8, 12, 16, 20};
+- Average: 12.00
+- Count below average: 2
+
+***
+
 - 
