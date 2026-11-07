@@ -104,4 +104,10 @@
 
 ***
 
+- 17-sum_negative.c: Write a program that calculates the sum of negative numbers in an array using a while loop.
+- int numbers[] = {-4, 7, 0, 12, -9, 3, -2, 8};
+- Sum of negative numbers: -15
+
+***
+
 - 
