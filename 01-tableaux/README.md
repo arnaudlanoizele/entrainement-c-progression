@@ -80,4 +80,10 @@
 
 ***
 
-- 
+- 13-count_nonzero.c: Write a program that counts the non-zero numbers in an array using a while loop
+- int numbers[] = {0, 7, -3, 0, 12, -5, 0, 9};
+- Non-zero numbers: 5
+
+***
+
+-
