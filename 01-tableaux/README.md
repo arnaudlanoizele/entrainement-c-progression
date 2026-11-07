@@ -68,4 +68,10 @@
 
 ***
 
+- 11-count_between.c: Write a program that counts the numbers greater than 5 and less than 20 in an array using a while loop.
+- int numbers[] = {3, 8, 12, 20, 5, 17, 25, 10};
+- Numbers between 5 and 20: 4
+
+***
+
 - 
