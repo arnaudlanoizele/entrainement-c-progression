@@ -86,4 +86,10 @@
 
 ***
 
--
+- 14-sum_even.c: Write a program that calculates the sum of even numbers in an array using a while loop.
+- int numbers[] = {3, 8, 12, 7, 15, 20, 6};
+- Sum of even numbers: 46
+
+***
+
+- 
