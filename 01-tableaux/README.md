@@ -116,4 +116,11 @@
 
 ***
 
+- 19-count_above_average.c: Write a program that counts how many numbers in an array are greater than the average.
+- int numbers[] = {4, 8, 12, 16, 20};
+- Average: 12.00
+- Count above average: 2
+
+***
+
 - 
