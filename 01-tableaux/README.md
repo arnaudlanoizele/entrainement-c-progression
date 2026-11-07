@@ -98,4 +98,10 @@
 
 ***
 
+- 16-sum_positive.c: Write a program that calculates the sum of positive numbers in an array using a while loop.
+- int numbers[] = {-4, 7, 0, 12, -9, 3, -2, 8};
+- Sum of positive numbers: 30
+
+***
+
 - 
