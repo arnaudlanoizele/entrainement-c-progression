@@ -54,4 +54,11 @@
 
 ***
 
+- 09-count_greater_than_10.c: Write a program that counts the numbers greater than 10 in an array using a while loop.
+- Écrire un programme qui compte les nombres strictement supérieurs à 10 dans un tableau, avec une boucle while.
+- int numbers[] = {4, 15, 10, 23, 7, 11, -5, 30};
+- Numbers greater than 10: 4
+
+***
+
 - 
