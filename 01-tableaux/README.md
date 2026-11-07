@@ -151,4 +151,10 @@
 
 ***
 
+- 25-second_largest.c: Write a program that finds the second largest distinct number in an array.
+- int numbers[] = {12, 45, 45, 28, 36, 19};
+- Second largest: 36
+
+***
+
 - 
