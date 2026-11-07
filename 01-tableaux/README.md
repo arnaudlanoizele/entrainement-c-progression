@@ -92,4 +92,10 @@
 
 ***
 
+- 15-sum_odd.c: Write a program that calculates the sum of odd numbers in an array, including negative numbers, using a while loop
+- int numbers[] = {3, -8, -5, 12, 7, -9, 20, 6};
+- Sum of odd numbers: -4
+
+***
+
 - 
