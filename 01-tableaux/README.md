@@ -2,7 +2,8 @@
 - Écris un programme en C qui calcule la somme de tous les éléments d'un tableau en utilisant une boucle while.
 - int numbers[] = {4, 8, 15, 6, 12, 5};
 - Sum: 50
-- 02-maximum.c: Write a program that finds the largest number in an array using a while loop.- Écrire un programme qui trouve le plus grand nombre d'un tableau en utilisant une boucle while.
+- 02-maximum.c: Write a program that finds the largest number in an array using a while loop.
+- Écrire un programme qui trouve le plus grand nombre d'un tableau en utilisant une boucle while.
 - int numbers[] = {-7, -12, -3, -25, -9, -18};
 - Maximum: 25
 - 03-minimum.c: Write a program that finds the smallest number in an array using a while loop.
