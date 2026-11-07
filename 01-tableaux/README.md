@@ -33,4 +33,10 @@
 
 ***
 
-- 
+- 06-count_positive.c: Write a program that counts the positive numbers in an array using a while loop.
+- Écrire un programme qui compte les nombres strictement positifs d'un tableau en utilisant une boucle while.
+- int numbers[] = {-4, 7, 0, 12, -9, 3, -2, 8};
+- Positive numbers: 4
+
+***
+
