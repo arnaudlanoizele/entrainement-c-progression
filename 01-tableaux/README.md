@@ -8,5 +8,5 @@
 - Maximum: 25
 - 03-minimum.c: Write a program that finds the smallest number in an array using a while loop.
 - Écrire un programme qui trouve le plus petit nombre d'un tableau en utilisant une boucle while
-- int numbers[] = {14, 6, 23, 2, 18, 9};
+- int numbers[] = {-14, -6, -23, -2, -18, -9};
 - Minimum: 2
