@@ -40,3 +40,11 @@
 
 ***
 
+- 07-count_negative.c: Write a program that counts the negative numbers in an array using a while loop.
+- Écrire un programme qui compte les nombres strictement négatifs dans un tableau en utilisant une boucle while.
+- int numbers[] = {5, -3, 0, -12, 8, -1, 6, -7};
+- Negative numbers: 4
+
+***
+
+- 
