@@ -28,10 +28,11 @@
 
 <details>
 <summary>📂 Afficher les exercices à partir du n° 5</summary>
-- 05-count_odd.c: Write a program that counts odd numbers in an array, including negative numbers.
+
+- **05-count_odd.c**: Write a program that counts odd numbers in an array, including negative numbers.
 - Écrire un programme qui compte les nombres impairs dans un tableau, y compris les nombres négatifs.
-- int numbers[] = {3, -8, -5, 12, 7, -9, 20, 6};
-- Odd numbers: 4
+- `int numbers[] = {3, -8, -5, 12, 7, -9, 20, 6};`
+- **Expected output:** `Odd numbers: 4`
 
 ***
 
