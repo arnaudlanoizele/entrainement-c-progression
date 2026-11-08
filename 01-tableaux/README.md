@@ -26,6 +26,8 @@
 
 ***
 
+<details>
+<summary>📂 Afficher les exercices à partir du n° 5</summary>
 - 05-count_odd.c: Write a program that counts odd numbers in an array, including negative numbers.
 - Écrire un programme qui compte les nombres impairs dans un tableau, y compris les nombres négatifs.
 - int numbers[] = {3, -8, -5, 12, 7, -9, 20, 6};
@@ -175,4 +177,11 @@
 
 ***
 
-- 
+- 29-second_largest_multiple_of_3.c:
+Write a C program that finds the second largest distinct multiple of 3 in an array.
+- Second largest multiple of 3: 15
+
+***
+
+
+</details>
