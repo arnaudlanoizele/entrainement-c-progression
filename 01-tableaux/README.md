@@ -15,7 +15,7 @@ C Programming — Array Exercises
 - Array:
 - int numbers[] = {-7, -12, -3, -25, -9, -18};
 - Expected output:
-- Maximum: 25
+- Maximum: -3
 
 ***
 
@@ -23,7 +23,7 @@ C Programming — Array Exercises
 - Array:
 - int numbers[] = {-14, -6, -23, -2, -18, -9};
 - Expected output:
-- Minimum: 2
+- Minimum: -23
 
 ***
 
@@ -219,7 +219,7 @@ C Programming — Array Exercises
 
 - 27-second_largest_even.c: Write a C program that finds the second largest distinct even number in an array.
 - Array:
-- int numbers[] = {7, 3, 12, 5, 9};
+- int numbers[] = {12, 7, 24, 18, 24, 5, 10};
 - Expected output:
 - Second largest even: 18
 
