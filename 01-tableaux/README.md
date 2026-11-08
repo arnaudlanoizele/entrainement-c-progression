@@ -242,5 +242,10 @@ Write a C program that finds the second largest distinct multiple of 3 in an arr
 
 ***
 
+-30-third_largest.c: Write a C program that finds and prints the third largest distinct number in an array of integers.
+- Array:
+- int numbers[] = {12, 45, 7, 28, 36, 19, 45};
+- Expected output:
+- Third largest: 28
 
 </details>
