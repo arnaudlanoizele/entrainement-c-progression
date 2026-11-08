@@ -169,4 +169,10 @@
 
 ***
 
+- 28-second_smallest_odd.c: Write a C program that finds the second smallest distinct odd number in an array.
+- int numbers[] = {15, 8, 7, 3, 12, 7, 11};
+- Second smallest odd: 7
+
+***
+
 - 
