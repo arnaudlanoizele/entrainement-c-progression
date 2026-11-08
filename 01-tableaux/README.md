@@ -157,4 +157,10 @@
 
 ***
 
+- 26-second_smallest.c: Write a program that finds the second smallest distinct number in an array.
+- int numbers[] = {25, 8, 8, 3, 19, 11};
+- Second smallest: 8
+
+***
+
 - 
