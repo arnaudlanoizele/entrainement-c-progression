@@ -163,4 +163,10 @@
 
 ***
 
+- 27-second_largest_even.c: Write a C program that finds the second largest distinct even number in an array.
+- int numbers[] = {7, 3, 12, 5, 9};
+- Second largest even: 18
+
+***
+
 - 
