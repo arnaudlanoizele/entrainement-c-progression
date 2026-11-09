@@ -256,4 +256,17 @@ Write a C program that finds the second largest distinct multiple of 3 in an arr
 - Expected output:
 - Third smallest: 11
 
+***
+
+- 32-second_smallest_found.c: Write a C program that finds the second smallest distinct number in an array of integers.
+- Use a found variable to indicate whether a second distinct minimum has been found.
+- If the array contains fewer than two distinct values, display an appropriate message.
+- Array:
+- int numbers[] = {18, 5, 12, 3, 9, 5, 14};
+- Expected output:
+- Second smallest: 5
+
+***
+
+
 </details>
