@@ -248,4 +248,12 @@ Write a C program that finds the second largest distinct multiple of 3 in an arr
 - Expected output:
 - Third largest: 28
 
+***
+
+- 31-third_smallest.c: Write a C program that finds the third smallest distinct number in an array of integers.If the array contains fewer than three distinct values, display an appropriate message.
+- Arrays:
+- int numbers[] = {25, 8, 14, 3, 19, 11, 8};
+- Expected output:
+- Third smallest: 11
+
 </details>
