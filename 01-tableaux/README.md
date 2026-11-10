@@ -305,5 +305,14 @@ Write a C program that finds the second largest distinct multiple of 3 in an arr
 
 ***
 
+- 37-most_frequent_number.c: Write a C program that finds the number that appears most frequently in an array.
+- Array:
+- int numbers[] = {4, 8, 4, 12, 8, 16, 4};
+- Expected output:
+- Most frequent number: 4
+- Occurrences: 3
+
+***
+
 
 </details>
