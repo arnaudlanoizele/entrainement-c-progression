@@ -297,5 +297,13 @@ Write a C program that finds the second largest distinct multiple of 3 in an arr
 
 ***
 
+- 36-count_duplicate_numbers.c: Write a C program that counts how many distinct numbers appear more than once in an array.
+- Array:
+- int numbers[] = {4, 8, 4, 12, 8, 16, 4};
+- Expected output:
+- Duplicate numbers: 2
+
+***
+
 
 </details>
