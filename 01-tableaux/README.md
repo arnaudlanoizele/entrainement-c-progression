@@ -340,5 +340,13 @@ Write a C program that finds the second largest distinct multiple of 3 in an arr
 
 ***
 
+- 41-longest_consecutive_sequence.c: Write a C program that finds the length of the longest sequence of consecutive increasing numbers in an array.
+- Array:
+- int numbers[] = {3, 4, 5, 9, 10, 2, 3, 4, 5, 6};
+- Expected output:
+- Longest sequence length: 5
+
+***
+
 
 </details>
