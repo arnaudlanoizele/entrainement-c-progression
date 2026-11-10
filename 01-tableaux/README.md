@@ -348,5 +348,13 @@ Write a C program that finds the second largest distinct multiple of 3 in an arr
 
 ***
 
+- 42-longest_decreasing_sequence.c: Write a C program that finds the length of the longest sequence of consecutive decreasing numbers in an array.
+- Array:
+- int numbers[] = {9, 8, 7, 3, 2, 10, 9, 8, 7, 6, 4};
+- Expected output:
+- Longest decreasing sequence length: 5
+
+***
+
 
 </details>
