@@ -323,5 +323,13 @@ Write a C program that finds the second largest distinct multiple of 3 in an arr
 
 ***
 
+- 39-count_unique_numbers.c: Write a C program that counts how many numbers appear exactly once in an array.
+- Array:
+- int numbers[] = {4, 8, 4, 12, 8, 16, 4};
+- Expected output:
+- Unique numbers: 2
+
+***
+
 
 </details>
