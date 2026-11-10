@@ -331,5 +331,14 @@ Write a C program that finds the second largest distinct multiple of 3 in an arr
 
 ***
 
+- 40-count_above_average.c: Write a C program that calculates the average of an array of integers and counts how many numbers are strictly greater than the average.
+- Array:
+- int numbers[] = {4, 8, 12, 16, 20};
+- Expected output:
+- Average: 12.00
+- Numbers above average: 2
+
+***
+
 
 </details>
