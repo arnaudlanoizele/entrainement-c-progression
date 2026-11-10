@@ -314,5 +314,14 @@ Write a C program that finds the second largest distinct multiple of 3 in an arr
 
 ***
 
+- 38-least_frequent_number.c: Write a C program that finds the number that appears the fewest times in an array.
+- Array:
+- int numbers[] = {4, 8, 4, 12, 8, 16, 4};
+- Expected output:
+- Least frequent number: 12
+- Occurrences: 1
+
+***
+
 
 </details>
