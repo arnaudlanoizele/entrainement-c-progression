@@ -356,5 +356,13 @@ Write a C program that finds the second largest distinct multiple of 3 in an arr
 
 ***
 
+- 43-longest_equal_sequence.c: Write a C program that finds the length of the longest sequence of consecutive equal numbers in an array.
+- Array:
+- int numbers[] = {3, 3, 5, 5, 5, 2, 7, 7, 7, 7, 4};
+- Expected output:
+- Longest equal sequence length: 4
+
+***
+
 
 </details>
