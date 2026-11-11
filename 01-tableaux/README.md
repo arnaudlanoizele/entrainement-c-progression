@@ -388,5 +388,13 @@ Write a C program that finds the second largest distinct multiple of 3 in an arr
 
 ***
 
+- 47-longest_positive_sequence.c: Write a C program that finds the length of the longest sequence of consecutive positive numbers in an array.
+- Array:
+- int numbers[] = {-3, 5, 8, 12, -2, 4, 7, 9, 15, -6, 3};
+- Expected output:
+- Longest positive sequence length: 4
+
+***
+
 
 </details>
