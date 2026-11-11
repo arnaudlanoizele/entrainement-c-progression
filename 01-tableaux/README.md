@@ -412,5 +412,13 @@ Write a C program that finds the second largest distinct multiple of 3 in an arr
 
 ***
 
+- 50-longest_alternating_sign.c: Write a C program that finds the length of the longest sequence of consecutive numbers alternating between positive and negative values in an array.
+- Array:
+- int numbers[] = {3, -5, 7, -2, 4, 6, -8, 10, -3, 5, -7, 9, 2};
+- Expected output:
+- Longest alternating sign sequence length: 7
+
+***
+
 
 </details>
