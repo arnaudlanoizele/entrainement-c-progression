@@ -380,5 +380,13 @@ Write a C program that finds the second largest distinct multiple of 3 in an arr
 
 ***
 
+-46-longest_odd_sequence.c: Write a C program that finds the length of the longest sequence of consecutive odd numbers in an array.
+- Array:
+- int numbers[] = {2, 3, 5, 7, 8, 9, 11, 13, 15, 4, 17};
+- Expected output:
+- Longest odd sequence length: 4
+
+***
+
 
 </details>
