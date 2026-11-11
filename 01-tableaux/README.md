@@ -372,5 +372,13 @@ Write a C program that finds the second largest distinct multiple of 3 in an arr
 
 ***
 
+- 45-longest_even_sequence.c: Write a C program that finds the length of the longest sequence of consecutive even numbers in an array.
+- Array:
+- int numbers[] = {2, 4, 7, 8, 10, 12, 5, 6, 8, 10, 12, 14, 3};
+- Expected output:
+- Longest even sequence length: 5
+
+***
+
 
 </details>
