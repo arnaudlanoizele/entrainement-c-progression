@@ -364,5 +364,13 @@ Write a C program that finds the second largest distinct multiple of 3 in an arr
 
 ***
 
+- 44-longest_alternating_parity.c: Write a C program that finds the length of the longest sequence of consecutive numbers alternating between even and odd in an array.
+- Array:
+- int numbers[] = {2, 5, 8, 3, 7, 4, 9, 12, 6, 11};
+- Expected output:
+- Longest alternating sequence length: 4
+
+***
+
 
 </details>
