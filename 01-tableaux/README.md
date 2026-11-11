@@ -404,5 +404,13 @@ Write a C program that finds the second largest distinct multiple of 3 in an arr
 
 ***
 
+- 49-longest_zero_sequence.c: Write a C program that finds the length of the longest sequence of consecutive zeros in an array.
+- Array:
+- int numbers[] = {3, 0, 0, 5, 0, 0, 0, 0, 7, 0, 0, 2};
+- Expected output:
+- Longest zero sequence length: 4
+
+***
+
 
 </details>
