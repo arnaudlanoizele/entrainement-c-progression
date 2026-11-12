@@ -36,8 +36,6 @@
 - int numbers[] = {15, 8, 24, 7, 16, 32, 24, 5, 18, 32, 10, 28};
 - Third largest distinct even: 24
 
-***
-
 - 1.Initialiser le premier maximum pair.
 - 2.Trouver un nouveau maximum.
 - 3.Mettre à jour le deuxième maximum.

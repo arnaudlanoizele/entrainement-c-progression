@@ -58,11 +58,11 @@ int main(void)
 	}
 	if (third_found == 1)
 	{
-		printf("Third largest distinct: %d\n", third_max);
+		printf("Third largest distinct even: %d\n", third_max);
 	}
 	else
 	{
-		printf("Not enough distinct numbers:\n");
+		printf("Not enough distinct numbers even:\n");
 	}
 	return (0);
 }
