@@ -55,3 +55,15 @@
 
 ***
 
+- revision_09.c: Write a C program that finds the second largest distinct odd number in an array.
+- int numbers[] = {13, 8, 25, 17, 25, 6, 31, 19, 31, 11, 22, 27};
+- Second largest distinct odd: 27
+
+***
+
+- revision_10.c: Write a C program that finds the third smallest distinct odd number in an array.
+- int numbers[] = {17, 8, 9, 25, 3, 12, 9, 15, 7, 3, 21, 11};
+- Third smallest distinct odd: 9
+
+***
+
