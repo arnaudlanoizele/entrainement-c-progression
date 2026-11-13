@@ -67,3 +67,9 @@
 
 ***
 
+- revision_11.c: Write a C program that finds the second largest distinct even number divisible by 3 in an array.
+- int numbers[] = {18, 7, 24, 9, 12, 30, 24, 5, 36, 15, 30, 6};
+- Second largest distinct even number divisible by 3: 30
+
+***
+
