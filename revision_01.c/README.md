@@ -42,3 +42,16 @@
 - 4.Mettre à jour le troisième maximum
 
 ***
+
+- revision_07.c: Write a C program that finds the second smallest distinct even number in an array.
+- int numbers[] = {18, 7, 12, 4, 18, 9, 6, 12, 4, 20};
+- Second smallest distinct even: 6
+
+***
+
+- revision_08.c: Write a C program that finds the largest odd number divisible by 3 in an array.
+- int numbers[] = {8, 15, 7, 21, 12, 9, 25, 33, 18, 11};
+- Largest odd number divisible by 3: 33
+
+***
+
