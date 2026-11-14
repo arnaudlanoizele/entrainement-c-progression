@@ -109,3 +109,15 @@
 
 ***
 
+- revision_18.c: Count how many distinct numbers greater than 10 appear at least twice in an array.
+- int numbers[] = {4, 12, 8, 15, 12, 20, 15, 8, 25, 20, 20, 30, 30, 30};
+- Distinct numbers greater than 10 appearing at least twice: 4
+
+***
+
+- revision_19.c: Count how many numbers appear exactly once in an array.
+- int numbers[] = {4, 8, 4, 12, 7, 8, 15, 3, 12, 9, 3, 20};
+- Numbers appearing exactly once: 4
+
+***
+
