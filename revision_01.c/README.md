@@ -73,3 +73,15 @@
 
 ***
 
+- revision_12.c: Write a C program that finds the third largest distinct number divisible by 5 in an array.
+- int numbers[] = {15, 8, 25, 40, 12, 25, 35, 7, 50, 40, 20, 45};
+- Third largest distinct multiple of 5: 40
+
+***
+
+- revision_13.c: Write a C program that finds the smallest distinct number that appears exactly twice in an array.
+- int numbers[] = {8, 4, 12, 8, 6, 4, 15, 6, 12, 12, 3, 3};
+- Smallest number occurring exactly twice: 3
+
+***
+
