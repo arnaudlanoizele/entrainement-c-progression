@@ -103,3 +103,9 @@
 
 ***
 
+- revision_17.c: Count how many distinct odd numbers appear at least twice in an array.
+- int numbers[] = {5, 8, 5, 7, 8, 7, 7, 3, 12, 3, 9, 9, 9, 9};
+- Distinct odd numbers appearing at least twice: 4
+
+***
+
