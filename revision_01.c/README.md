@@ -85,3 +85,9 @@
 
 ***
 
+- revision_14.c: Write a C program that counts how many distinct numbers appear exactly twice in an array.
+- int numbers[] = {4, 8, 4, 12, 8, 16, 3, 3, 12, 12};
+- Numbers appearing exactly twice: 3
+
+***
+
