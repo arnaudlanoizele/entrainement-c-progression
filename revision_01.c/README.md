@@ -91,3 +91,15 @@
 
 ***
 
+- revision_15.c: Count how many distinct numbers appear exactly three times in an array.
+- int numbers[] = {4, 8, 4, 12, 8, 4, 3, 3, 12, 12, 7, 7, 7, 7};
+- Numbers appearing exactly three times: 2
+
+***
+
+- revision_16.c: Objective: Count how many distinct even numbers appear exactly twice in an array.
+- int numbers[] = {4, 7, 4, 8, 7, 12, 8, 3, 3, 12, 6, 6, 6};
+- Distinct even numbers appearing exactly twice: 3
+
+***
+
