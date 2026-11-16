@@ -151,3 +151,9 @@
 
 ***
 
+- revision_25.c: Find the second largest distinct odd number that appears at least twice in an array.
+- int numbers[] = {15, 8, 21, 15, 7, 21, 33, 9, 33, 7, 25, 9, 25, 41, 12, 18, 41, 35, 11, 35, 50};
+- Second largest odd number appearing at least twice: 35
+
+***
+
