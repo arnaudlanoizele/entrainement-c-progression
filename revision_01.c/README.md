@@ -157,3 +157,9 @@
 
 ***
 
+- revision_26.c: Find the third largest distinct even number that appears exactly twice in an array.
+- int numbers[] = {18, 7, 24, 12, 18, 30, 24, 6, 12, 36, 30, 8, 36, 20, 20, 14, 14, 42};
+- Third largest even number appearing exactly twice: 24
+
+***
+
