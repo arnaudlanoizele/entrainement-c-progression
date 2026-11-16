@@ -163,3 +163,10 @@
 
 ***
 
+- revision_27.c: Find the most frequent distinct even number in an array. If several even numbers have the same highest frequency, return the smallest one.
+- int numbers[] = {8, 12, 4, 8, 6, 12, 4, 8, 12, 6, 4, 10, 10, 7, 9, 15};
+- Most frequent even number: 4
+Occurrences: 3
+
+***
+
