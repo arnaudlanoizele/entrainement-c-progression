@@ -145,3 +145,9 @@
 
 ***
 
+- revision_24.c: Find the third smallest distinct number that appears exactly twice in an array.
+- int numbers[] = {12, 5, 8, 12, 3, 5, 15, 8, 7, 3, 20, 7, 15, 20, 4, 4, 25};
+- Third smallest number appearing exactly twice: 5
+
+***
+
