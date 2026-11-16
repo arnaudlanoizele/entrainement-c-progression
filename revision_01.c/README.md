@@ -121,3 +121,27 @@
 
 ***
 
+- revision_20.c: Count how many distinct even numbers appear exactly twice in an array.
+- int numbers[] = {4, 7, 12, 4, 8, 12, 15, 8, 20, 20, 20, 6, 6, 9};
+- Distinct even numbers appearing exactly twice: 4
+
+***
+
+- revision_21.c: Count how many distinct odd numbers appear at least three times in an array.
+- int numbers[] = {7, 3, 7, 12, 3, 9, 7, 5, 9, 5, 3, 9, 9, 11, 11, 11};
+- Distinct odd numbers appearing at least three times: 4
+
+***
+
+- revision_22.c: Find the smallest distinct number that appears exactly twice in an array.
+- int numbers[] = {8, 4, 12, 8, 6, 4, 15, 6, 12, 12, 3, 3};
+- Smallest number appearing exactly twice: 3
+
+***
+
+- revision_23.c: Find the second largest distinct number that appears exactly twice in an array.
+- int numbers[] = {12, 8, 20, 12, 5, 8, 30, 20, 15, 30, 7, 15, 25, 25, 40};
+- Second largest number appearing exactly twice: 25
+
+***
+
