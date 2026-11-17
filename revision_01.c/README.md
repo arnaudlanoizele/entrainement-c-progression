@@ -176,8 +176,13 @@ Occurrences: 3
 
 ***
 
-- revision_28.c: Find the most frequent distinct odd number in an array. If several odd numbers have the same highest frequency, return the largest one.
+- revision_29.c: Find the most frequent distinct odd number in an array. If several odd numbers have the same highest frequency, return the largest one.
 - int numbers[] = {7, 3, 9, 7, 5, 3, 9, 7, 3, 9, 11, 5, 11, 13, 13, 13, 8, 12};
+
+***
+
+- revision_30.c: Find the second most frequent distinct even number in an array. If several even numbers have the same frequency, rank them from smallest to largest.
+- int numbers[] = {8, 12, 4, 8, 6, 12, 4, 8, 12, 6, 4, 10, 10, 14, 14, 14, 7, 9};
 
 ***
 
