@@ -170,3 +170,9 @@ Occurrences: 3
 
 ***
 
+- revision_28.c: Find the least frequent distinct even number in an array. If several even numbers have the same lowest frequency, return the largest one.
+- int numbers[] = {8, 12, 4, 8, 6, 12, 4, 8, 12, 6, 4, 10, 10, 7, 9, 15, 14};
+-
+
+***
+
