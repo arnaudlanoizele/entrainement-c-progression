@@ -216,3 +216,9 @@ Occurrences: 3
 
 ***
 
+- revision_36.c: Write a C program that counts how many distinct values appear exactly twice in an array.
+- int numbers[] = {4, 8, 4, 12, 8, 16, 3, 3, 12, 12};
+- Values appearing exactly twice: 3
+
+***
+
