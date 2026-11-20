@@ -192,3 +192,9 @@ Occurrences: 3
 
 ***
 
+- revision_32.c: Write a C program that finds the second smallest distinct even number in an array.
+- int numbers[] = {18, 7, 12, 4, 18, 9, 6, 12, 4, 20, -8, -2, -8};
+- Second smallest distinct even: -2
+
+***
+
