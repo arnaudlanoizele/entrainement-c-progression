@@ -186,3 +186,9 @@ Occurrences: 3
 
 ***
 
+- revision_31.c: Write a C program that finds the third smallest distinct number in an array.
+- int numbers[] = {17, 8, 3, 12, 5, 8, 3, 21, 7, 5, 14};
+- Third smallest distinct: 7
+
+***
+
