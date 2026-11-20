@@ -198,3 +198,15 @@ Occurrences: 3
 
 ***
 
+- revision_33.c: Write a C program that finds the third smallest distinct odd number in an array.
+- int numbers[] = {17, 8, 9, 25, 3, 12, 9, 15, 7, 3, 21, 11, -5, -9, -3};
+- Third smallest distinct odd: -3
+
+***
+
+- revision_33.c: Write a C program that finds the third largest distinct even number in an array.
+- int numbers[] = {12, 8, 24, 16, 24, 6, 18, 8, 30, 14, 30, -4, -10, 22, 18};
+- Third largest distinct even: 22
+
+***
+
