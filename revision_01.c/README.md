@@ -210,3 +210,9 @@ Occurrences: 3
 
 ***
 
+- revision_35.c: Write a C program that counts the number of distinct values in an array.
+- int numbers[] = {7, 3, 7, 12, 3, 9, 12, 5, 9, 5, 18};
+- Distinct values: 6
+
+***
+
