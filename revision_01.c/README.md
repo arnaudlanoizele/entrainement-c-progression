@@ -204,7 +204,7 @@ Occurrences: 3
 
 ***
 
-- revision_33.c: Write a C program that finds the third largest distinct even number in an array.
+- revision_34.c: Write a C program that finds the third largest distinct even number in an array.
 - int numbers[] = {12, 8, 24, 16, 24, 6, 18, 8, 30, 14, 30, -4, -10, 22, 18};
 - Third largest distinct even: 22
 
