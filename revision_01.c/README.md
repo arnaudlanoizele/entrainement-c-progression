@@ -249,3 +249,9 @@ Values above average: 4
 
 ***
 
+- revision_41.c: Write a C program that finds the length of the longest consecutive increasing sequence in an array.
+- int numbers[] = {4, 7, 9, 3, 5, 8, 12, 2, 6, 10, 15, 18, 1};
+- Longest increasing sequence: 5
+
+***
+
