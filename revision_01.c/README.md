@@ -255,3 +255,9 @@ Values above average: 4
 
 ***
 
+- revision_42.c: Write a C program that finds the length of the longest consecutive decreasing sequence in an array.
+- int numbers[] = {20, 15, 10, 3, 18, 14, 9, 5, 2, 25, 20, 12, 7, 1, 30};
+- Longest decreasing sequence: 5
+
+***
+
