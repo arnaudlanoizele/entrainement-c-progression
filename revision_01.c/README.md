@@ -222,3 +222,10 @@ Occurrences: 3
 
 ***
 
+- revision_37.c: Write a C program that finds the most frequent value in an array.
+- int numbers[] = {4, 8, 4, 12, 8, 16, 4, 3, 12, 4, 8, 8, 8};
+- Most frequent value: 8
+Occurrences: 5
+
+***
+
