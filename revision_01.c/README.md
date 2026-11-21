@@ -229,3 +229,7 @@ Occurrences: 5
 
 ***
 
+- revision_38.c: Write a C program that finds the least frequent value in an array.
+- int numbers[] = {4, 8, 4, 12, 8, 16, 4, 3, 12, 4, 8, 8, 8};
+- Least frequent value: 16
+Occurrences: 1
