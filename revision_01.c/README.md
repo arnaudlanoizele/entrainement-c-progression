@@ -242,3 +242,10 @@ Occurrences: 1
 
 ***
 
+- revision_40.c: Write a C program that counts how many values in an array are strictly greater than the average of all its elements.
+- int numbers[] = {4, 8, 12, 16, 20, 6, 14, 10};
+- Average: 11.25
+Values above average: 4
+
+***
+
