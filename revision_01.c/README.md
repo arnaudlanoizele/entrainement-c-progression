@@ -233,3 +233,12 @@ Occurrences: 5
 - int numbers[] = {4, 8, 4, 12, 8, 16, 4, 3, 12, 4, 8, 8, 8};
 - Least frequent value: 16
 Occurrences: 1
+
+***
+
+- revision_39.c: Write a C program that counts how many distinct values appear exactly once in an array
+- int numbers[] = {4, 8, 4, 12, 8, 16, 3, 3, 12, 7, 9, 9, 5};
+- Unique values: 3
+
+***
+
