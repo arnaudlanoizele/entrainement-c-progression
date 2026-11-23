@@ -297,3 +297,9 @@ Values above average: 4
 
 ***
 
+- revision_49.c: Write a C program that finds the length of the longest sequence of consecutive zeros in an array.
+- int numbers[] = {3, 0, 0, 5, 0, 0, 0, 7, 0, 0, 0, 0, 0, 4, 0, 0, 8};
+- Longest consecutive zero sequence: 5
+
+***
+
