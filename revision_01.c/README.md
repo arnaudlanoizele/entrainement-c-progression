@@ -261,3 +261,9 @@ Values above average: 4
 
 ***
 
+- revision_43.c: Write a C program that finds the length of the longest sequence of consecutive even numbers in an array
+- int numbers[] = {3, 4, 8, 12, 7, 6, 10, 14, 18, 5, 2, 4, 6, 8, 10, 3};
+- Longest consecutive even sequence: 5
+
+***
+
