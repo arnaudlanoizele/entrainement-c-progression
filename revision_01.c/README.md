@@ -279,4 +279,9 @@ Values above average: 4
 
 ***
 
-- revision_46.c: 
+- revision_46.c: Write a C program that finds the length of the longest sequence of consecutive positive numbers in an array.
+- int numbers[] = {3, -2, 5, 8, 12, -4, 7, 9, 15, 6, 11, -3, 4, 8, -1};
+- Longest consecutive positive sequence: 5
+
+***
+
