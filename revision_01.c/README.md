@@ -267,3 +267,9 @@ Values above average: 4
 
 ***
 
+- revision_44.c: Write a C program that finds the length of the longest sequence of consecutive odd numbers in an array.
+- int numbers[] = {2, 7, 9, 11, 4, 3, 5, 7, 9, 13, 6, 15, 17, 19, 8, 1};
+- Longest consecutive odd sequence: 5
+
+***
+
