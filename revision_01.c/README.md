@@ -273,3 +273,10 @@ Values above average: 4
 
 ***
 
+- revision_45.c: Write a C program that finds the length of the longest sequence of consecutive elements alternating between even and odd numbers in an array.
+- int numbers[] = {2, 5, 8, 3, 6, 4, 7, 10, 13, 16, 19, 2, 4, 9, 12, 15};
+- Longest alternating even-odd sequence: 7
+
+***
+
+- revision_46.c: 
