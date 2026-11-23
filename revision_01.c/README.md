@@ -291,3 +291,9 @@ Values above average: 4
 
 ***
 
+- revision_48.c: Write a C program that finds the length of the longest sequence of consecutive non-zero numbers in an array.
+- int numbers[] = {3, 5, 0, -2, 7, 9, 0, 4, -6, 8, 12, -3, 0, 5, 7, 0};
+- Longest consecutive non-zero sequence: 5
+
+***
+
