@@ -10,3 +10,9 @@
 
 ***
 
+- revision_53.c: Write a C program that finds the smallest distinct number appearing exactly twice in an array.
+- int numbers[] = {8, 4, 12, 8, 6, 4, 15, 6, 12, 12, 3, 3};
+- Smallest number appearing exactly twice: 3
+
+***
+
