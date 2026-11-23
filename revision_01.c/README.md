@@ -285,3 +285,9 @@ Values above average: 4
 
 ***
 
+- revision_47.c: Write a C program that finds the length of the longest sequence of consecutive negative numbers in an array.
+- int numbers[] = {4, -3, -7, -2, 5, -8, -1, -6, -9, -4, 3, -5, -2, 7, -1};
+- Longest consecutive negative sequence: 5
+
+***
+
