@@ -303,3 +303,9 @@ Values above average: 4
 
 ***
 
+- revision_50.c: Write a C program that finds the length of the longest sequence of consecutive elements that are both even and strictly increasing in an array.
+- int numbers[] = {3, 2, 4, 6, 8, 5, 10, 12, 14, 8, 16, 18, 20, 22, 24, 7};
+- Longest increasing even sequence: 6
+
+***
+
