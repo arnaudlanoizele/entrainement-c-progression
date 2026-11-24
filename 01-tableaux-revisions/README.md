@@ -16,3 +16,10 @@
 
 ***
 
+- revision_54.c: Write a C program that finds the second most frequent distinct even number in an array.
+If two numbers have the same frequency, the smallest number takes priority.
+- int numbers[] = {8, 12, 4, 8, 6, 12, 4, 8, 12, 6, 4, 10, 10, 14, 14, 14, 7, 9};
+- Second most frequent distinct even number: 8
+
+***
+
