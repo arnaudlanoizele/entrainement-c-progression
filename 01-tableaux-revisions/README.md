@@ -78,3 +78,12 @@ Occurrences: 1
 
 ***
 
+- revision_61.c: Write a C program that finds the second least frequent distinct multiple of 5 in an array.
+- If two numbers have the same frequency, the largest number takes priority.
+- If there are fewer than two distinct multiples of 5, display an appropriate message.
+- int numbers[] = {10, -5, 15, 10, 20, -5, 15, 10, 25, -10, 0, 7, 20, 12, -15};
+- Second least frequent multiple of 5: 0
+Occurrences: 1
+
+***
+
