@@ -60,3 +60,12 @@ Occurrences: 3
 
 ***
 
+- revision_59.c: Write a C program that finds the third most frequent distinct positive number in an array.
+- If two numbers have the same frequency, the largest number takes priority.
+- If there are fewer than three distinct positive numbers, display an appropriate message.
+- int numbers[] = {4, 8, -3, 12, 4, 8, 6, 12, 4, 8, 12, 6, 15, 0, -8, 4, 15, 15};
+- Third most frequent positive number: 12
+Occurrences: 3
+
+***
+
