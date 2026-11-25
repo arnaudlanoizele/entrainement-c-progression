@@ -54,6 +54,9 @@ Occurrences: 1
 - revision_58.c: Write a C program that finds the second most frequent distinct negative number in an array.
 - If two numbers have the same frequency, the smallest number takes priority.
 - If there are fewer than two distinct negative numbers, display an appropriate message.
+- int numbers[] = {-4, -8, 12, -4, -3, -8, -6, -4, -3, -8, -6, -3, -4, 0, 7};
+- Second most frequent negative number: -8
+Occurrences: 3
 
 ***
 
