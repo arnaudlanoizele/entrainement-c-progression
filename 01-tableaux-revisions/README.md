@@ -69,3 +69,12 @@ Occurrences: 3
 
 ***
 
+- revision_60.c: Write a C program that finds the third least frequent distinct multiple of 3 in an array.
+- If two numbers have the same frequency, the smallest number takes priority.
+- If there are fewer than three distinct multiples of 3, display an appropriate message.
+- int numbers[] = {9, -6, 12, 9, 3, -6, 15, 12, 9, 3, -9, 18, 15, 0, 7, -4, 12, 21};
+- Third least frequent multiple of 3: 18
+Occurrences: 1
+
+***
+
