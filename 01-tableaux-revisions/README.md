@@ -23,3 +23,13 @@ If two numbers have the same frequency, the smallest number takes priority.
 
 ***
 
+- revision_54.c:
+- Write a C program that finds the third most frequent distinct even number in an array.
+- If two numbers have the same frequency, the smallest number takes priority.
+- If there are fewer than three distinct even numbers, display an appropriate message.
+- int numbers[] = {8, 4, 12, 8, 6, 4, 12, 8, 4, 12, 8, 6, 10, 7, 9};
+- Third most frequent even number: 12
+Occurrences: 3
+
+***
+
