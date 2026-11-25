@@ -42,3 +42,18 @@ Occurrences: 1
 
 ***
 
+- revision_57.c: Write a C program that finds the third least frequent distinct even number in an array.
+- If two numbers have the same frequency, the largest number takes priority.
+- If there are fewer than three distinct even numbers, display an appropriate message.
+- int numbers[] = {8, 4, 12, 8, 6, 4, 12, 8, 16, 6, 10, 14, 7, 9, -4, -8};
+- Third least frequent even number: 10
+Occurrences: 1
+
+***
+
+- revision_58.c: Write a C program that finds the second most frequent distinct negative number in an array.
+- If two numbers have the same frequency, the smallest number takes priority.
+- If there are fewer than two distinct negative numbers, display an appropriate message.
+
+***
+

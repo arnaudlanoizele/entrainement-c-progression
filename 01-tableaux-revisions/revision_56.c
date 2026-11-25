@@ -56,7 +56,7 @@ int main(void)
 			second_count = count_min;
 			second_found = 1;
 			least_frequent = numbers[i];
-			count_min = found; 
+			count_min = found;
 		}
 		else if (
 			(numbers[i] != least_frequent) &&
