@@ -114,3 +114,12 @@ Occurrences: 3
 
 ***
 
+- revision_65.c: Write a C program that finds the third least frequent distinct even positive number in an array.
+- If two numbers have the same frequency, the smallest number takes priority.
+- If there are fewer than three distinct even positive numbers, display an appropriate message.
+- int numbers[] = {8, 4, 12, 8, 6, 4, 12, 8, 10, 6, 14, 16, 18, 20, -2, -4, 7, 9, 0};
+- Third least frequent even positive number: 16
+Occurrences: 1
+
+***
+
