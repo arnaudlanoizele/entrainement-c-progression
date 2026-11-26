@@ -152,3 +152,12 @@ Occurrences: 3
 
 ***
 
+- revision_69.c: Write a C program that finds the third largest distinct number appearing exactly twice in an array.
+- Exclude zero.
+- If there are fewer than three distinct numbers appearing exactly twice, display an appropriate message.
+- int numbers[] = {12, -5, 8, 12, 20, -5, 8, 15, 20, 30, 15, 30, 30, -10, -10, 25, 0, 0};
+- Third largest number appearing exactly twice: 12
+Occurrences: 2
+
+***
+
