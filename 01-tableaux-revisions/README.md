@@ -132,3 +132,13 @@ Occurrences: 3
 
 ***
 
+- revision_67.c: Write a C program that finds the third least frequent distinct number divisible by 3 in an array.
+- If two numbers have the same frequency, the largest number takes priority.
+Exclude zero.
+- If there are fewer than three eligible distinct numbers, display an appropriate message.
+- int numbers[] = {9, -6, 12, 9, -3, 12, -6, 9, 15, -3, 18, -9, 21, -12, 6, 6, 8, -4, 0};
+- Third least frequent multiple of 3: 15
+Occurrences: 1
+
+***
+
