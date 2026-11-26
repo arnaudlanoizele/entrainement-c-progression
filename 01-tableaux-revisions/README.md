@@ -105,3 +105,12 @@ Occurrences: 1
 
 ***
 
+- revision_64.c: Write a C program that finds the third most frequent distinct even negative number in an array.
+- If two numbers have the same frequency, the smallest number takes priority.
+- If there are fewer than three distinct even negative numbers, display an appropriate message.
+- int numbers[] = {-4, -8, -6, -4, -12, -8, -6, -4,-12, -8, -10, -12, -14, -6, -3,-5, 8, 12, 0};
+- Third most frequent even negative number: -6
+Occurrences: 3
+
+***
+
