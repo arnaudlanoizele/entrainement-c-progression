@@ -96,7 +96,7 @@ Occurrences: 3
 
 ***
 
-- revision_62.c: Write a C program that finds the third least frequent distinct odd positive number in an array.
+- revision_63.c: Write a C program that finds the third least frequent distinct odd positive number in an array.
 - If two numbers have the same frequency, the largest number takes priority.
 - If there are fewer than three distinct odd positive numbers, display an appropriate message.
 - int numbers[] = {7, 3, 9, 7, 5, 3, 9, 7, 11, 5, 13, 15, 17, -3, -9, 8, 12, 0};
