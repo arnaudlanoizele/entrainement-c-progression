@@ -180,3 +180,14 @@ Occurrences: 3
 
 ***
 
+- revision_72.c: Write a C program that finds the third most frequent distinct even number in an array.
+- Only consider numbers appearing at least twice.
+- Exclude zero.
+- If two numbers have the same frequency, prioritize the smallest number.
+- If there are fewer than three eligible distinct numbers, display an appropriate message.
+- int numbers[] = {8, -4, 12, 8, -6, 12, -4, 8, 6, -6, 12, -4, 8, -6, 6, 12, -4, 10, 10, 0, 0, 0, 0, 0, 7, 7, 7};
+- Third most frequent even number: 12
+- Occurrences: 4
+
+***
+
