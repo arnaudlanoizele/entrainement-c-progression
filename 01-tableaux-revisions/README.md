@@ -161,3 +161,13 @@ Occurrences: 2
 
 ***
 
+- revision_70.c: Write a C program that finds the third smallest distinct number appearing exactly three times in an array.
+- Only consider even numbers.
+- Exclude zero.
+- If there are fewer than three eligible distinct numbers, display an appropriate message.
+- int numbers[] = {12, -8, 4, 12, -4, -8, 6, 4, -4, 12, -8, 4, -4, 6, 6, -10, -10, 7, 7, 7, 0, 0, 0};
+- Third smallest even number appearing exactly three times: 4
+Occurrences: 3
+
+***
+
