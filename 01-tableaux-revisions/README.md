@@ -171,3 +171,12 @@ Occurrences: 3
 
 ***
 
+- revision_71.c: Write a C program that finds the third largest distinct number appearing at least twice in an array.
+- Only consider negative odd numbers.
+- If there are fewer than three eligible distinct numbers, display an appropriate message.
+- int numbers[] = {-7, -3, -9, -7, -5, -3, -11, -5, -9, -7, -11, -1, -4, -4, 3, 3, 0, 0};
+- Third largest negative odd number appearing at least twice: -7
+Occurrences: 3
+
+***
+
